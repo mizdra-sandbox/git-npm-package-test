@@ -1,0 +1,9 @@
+{
+  "name": "git-npm-package-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@mizdra/prettier-config-mizdra": "git://github.com/mizdra/prettier-config-mizdra.git#v0.1.0"
+  }
+}
